@@ -1,0 +1,11 @@
+.skills {
+  text-align: center;
+  margin-bottom: 5rem;
+  scroll-margin-top: 20rem;
+}
+
+.skills .skills__content {
+  text-align: center;
+  justify-content: space-between;
+  scroll-margin-top: 10rem;
+}
